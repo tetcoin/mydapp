@@ -1,5 +1,5 @@
 {
-  "name": "skeleton",
+  "name": "tetsy-skeleton",
   "version": "0.1.0",
   "description": "Skeleton dapp",
   "main": "webpack.config.js",
